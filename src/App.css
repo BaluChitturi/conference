@@ -1,0 +1,92 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.App {
+  width: 100%;
+  margin: 0; /* Adjust margin if needed */
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #dee2e6;
+  position: sticky;
+  top: 0; /* Stick to the top of the viewport */
+  background-color: white; /* Ensure background color covers content behind */
+  z-index: 1000; /* Keep above other content */
+}
+
+.tab-link {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #007bff;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  margin: 0 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  display: inline-block;
+}
+
+.tab-link:hover,
+.tab-link.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.tab-content {
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  height: calc(100vh - 60px); /* Adjust for height of the navbar if needed */
+  overflow: auto; /* Allow scrolling if content overflows */
+}
+
+.tab-content h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.tab-content p, .tab-content li {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+/* Corporate Participants Styles */
+.corporate-participants-container {
+  height: 100vh; /* Full viewport height */
+  width: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff; /* Background color for content */
+  padding: 20px; /* Padding for content */
+  box-sizing: border-box; /* Include padding in height calculation */
+}
+
+.corporate-participants-content {
+  flex: 1; /* Take up remaining space */
+  overflow: auto; /* Allow scrolling if content overflows */
+}

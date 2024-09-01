@@ -1,0 +1,189 @@
+{
+    "api_version": "v2",
+    "response_id": "36057588-b1e6-4ca9-8be2-0ea4b633e797",
+    "data": {
+      "items": {
+        "id": "ab47fd69-73f2-582a-9cb3-598bd3960f12",
+        "transcript_status": "FINAL",
+        "transcript_data": {
+          "call_data": {
+            "category": "earnings_conference",
+            "eventdatetime": "2024-08-01T21:00:00Z",
+            "company": "Apple Inc",
+            "ticker": "AAPL",
+            "exchange": "NASDAQ",
+            "period": "Q3",
+            "period_end_date": "2024-08-01",
+            "industry_category": "technology-and-telecom",
+            "call_duration": "00:58:53",
+            "year": "2024",
+            "language": "English"
+          },
+          "participants": {
+            "operator": [
+              {
+                "id": "4",
+                "name": "Operator"
+              }
+            ],
+            "executives": [
+              {
+                "id": "1",
+                "name": "Suhasini Chandramouli",
+                "company": "Apple Inc.",
+                "designation": "Director of Investor Relations"
+              },
+              {
+                "id": "2",
+                "name": "Tim Cook",
+                "company": "Apple Inc.",
+                "designation": "Chief Executive Officer"
+              },
+              {
+                "id": "3",
+                "name": "Luca Maestri",
+                "company": "Apple Inc.",
+                "designation": "Senior Vice President and Chief Financial Officer"
+              }
+            ],
+            "analyst": [
+              {
+                "id": "5",
+                "name": "Erik Woodring",
+                "company": "Morgan Stanley",
+                "designation": "Analyst"
+              },
+              {
+                "id": "6",
+                "name": "Ben Reitzes",
+                "company": "Melius Research",
+                "designation": "Analyst"
+              },
+              {
+                "id": "7",
+                "name": "Michael Ng",
+                "company": "Goldman Sachs",
+                "designation": "Analyst"
+              },
+              {
+                "id": "8",
+                "name": "Amit Daryanani",
+                "company": "Evercore",
+                "designation": "Analyst"
+              },
+              {
+                "id": "9",
+                "name": "Wamsi Mohan",
+                "company": "Bank of America",
+                "designation": "Analyst"
+              },
+              {
+                "id": "10",
+                "name": "Krish Sankar",
+                "company": "TD Cowen",
+                "designation": "Analyst"
+              },
+              {
+                "id": "11",
+                "name": "David Vogt",
+                "company": "UBS",
+                "designation": "Analyst"
+              },
+              {
+                "id": "12",
+                "name": "Atif Malik",
+                "company": "Citi",
+                "designation": "Analyst"
+              },
+              {
+                "id": "13",
+                "name": "Samik Chatterjee",
+                "company": "J.P. Morgan",
+                "designation": "Analyst"
+              },
+              {
+                "id": "14",
+                "name": "Richard Kramer",
+                "company": "Arete Research",
+                "designation": "Analyst"
+              }
+            ]
+          },
+          "presentation": [
+            {
+              "participant_id": "1",
+              "participant_name": "Suhasini Chandramouli",
+              "participant_company": "Apple Inc.",
+              "participant_designation": "Director of Investor Relations",
+              "transcript_data": [
+                "Good afternoon, and welcome to the Apple Q3 Fiscal Year 2024 Earnings Conference Call.",
+                "My name is Suhasini Chandramouli, Director of Investor Relations.",
+                "Today's call is being recorded. Speaking first today is Apple's CEO, Tim Cook; and he'll be followed by CFO, Luca Maestri.",
+                "After that, we'll open the call to questions from analysts.",
+                "Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements.",
+                "These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast.",
+                "For more information, please refer to the risk factors discussed in Apple's most recently filed annual report on Form 10-K and the Form 8-K filed with the SEC today, along with the associated press release.",
+                "Apple assumes no obligation to update any forward-looking statements, which speak only as of the date they are made.",
+                "I'd now like to turn the call over to Tim for introductory remarks."
+              ]
+            },
+            {
+              "participant_id": "2",
+              "participant_name": "Tim Cook",
+              "participant_company": "Apple Inc.",
+              "participant_designation": "Chief Executive Officer",
+              "transcript_data": [
+                "Thank you, Suhasini. Good afternoon, everyone, and thanks for joining the call.",
+                "Today, Apple is reporting a new June quarter revenue record of $85.8 billion, up 5% from a year ago and better than we had expected.",
+                "EPS grew double digits to $1.40 and achieved a record for the June quarter.",
+                "We also set quarterly revenue records in more than two dozen countries and regions, including Canada, Mexico, France, Germany, the U.K., India, Indonesia, the Philippines, and Thailand.",
+                "And we set an all-time revenue record in Services, which grew 14%.",
+                "At our Worldwide Developers Conference, we were thrilled to unveil game-changing updates across our platforms, including Apple Intelligence.",
+                "Apple Intelligence builds on years of innovation and investment in AI and machine learning.",
+                "It will transform how users interact with technology from Writing Tools to help you express yourself to Image Playground, which gives you the ability to create fun images and communicate in new ways to powerful tools for summarizing and prioritizing notifications.",
+                "Siri also becomes more natural, more useful, and more personal than ever.",
+                "Apple Intelligence is built on a foundation of privacy, both through on-device processing that does not collect users' data and through Private Cloud Compute, a groundbreaking new approach to using the cloud while protecting users' information powered by Apple Silicon."
+              ]
+            },
+            {
+              "participant_id": "3",
+              "participant_name": "Luca Maestri",
+              "participant_company": "Apple Inc.",
+              "participant_designation": "Senior Vice President and Chief Financial Officer",
+              "transcript_data": [
+                "Thank you, Tim, and good afternoon, everyone.",
+                "We are very pleased to report a new June quarter revenue record of $85.8 billion, up 5% year-over-year despite 230 basis points of negative foreign exchange impact.",
+                "We achieved growth in the vast majority of our markets, with June quarter revenue records in the Americas, Europe, and rest of Asia Pacific.",
+                "Products revenue was $61.6 billion, up 2% year-over-year, driven by the launch of the new iPad Pro and iPad Air.",
+                "Our installed base of active devices reached an all-time high across all products and geographic segments, thanks to our unmatched levels of customer satisfaction and loyalty and a large number of customers who are new to our products.",
+                "Services revenue reached an all-time record of $24.2 billion, up 14% year-over-year, with an all-time record in developed markets and a June quarter record in emerging markets.",
+                "Company gross margin was 46.3%, near the high end of our guidance range and down 30 basis points sequentially, driven by a different mix within products, which was partially offset by a favorable mix shift towards Services and cost savings."
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "participant_id": "4",
+              "participant_name": "Operator",
+              "transcript_data": [
+                "Certainly. We will go ahead and take our first question from Erik Woodring with Morgan Stanley. Please go ahead."
+              ]
+            },
+            {
+              "participant_id": "5",
+              "participant_name": "Erik Woodring",
+              "company": "Morgan Stanley",
+              "designation": "Analyst",
+              "transcript_data": [
+                "Great. Thank you very much for taking my question.",
+                "Maybe, Tim, if we start with you, I thought some of the color you provided before the call about iPhone 15 performing better than the iPhone 14 was interesting.",
+                "So just with that context, can you maybe help us understand where you see iPhone replacement cycles today, where you think the size of the base of iPhones that are aged and likely to upgrade are?",
+                "And what that translates to in potential pent-up demand as we enter a new iPhone cycle?"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+  
